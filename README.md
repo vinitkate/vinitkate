@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinitkate
-- 👀 I’m interested in Web Development (Front End)
+- 👀 I’m interested in Machine learning, AI
 - 🌱 I’m currently learning ...
 - 📫 Email: vinitvkate@gmail.com
 
