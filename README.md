@@ -6,10 +6,6 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vinitkate&show_icons=true&theme=chartreuse-dark&PAT_1" width="400"></a>
-</p>
-
-<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitkate&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1" width="335"></a>
 </p>
 
